@@ -1,4 +1,4 @@
-print("hello welcome to Restursnt")
+print("hello welcome to Resturant")
 hungry=input("are you hungry?")
 if hungry=="yes":
     print("eat samosa")
